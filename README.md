@@ -3,5 +3,5 @@ Rozhodl jsem se ve své projektové práci udělat web na tátovu firmu, která 
 kovů. 
 Na stránce: http://strojnidilnaevangelik.cz/
 V jazycích: JS, PHP, HTML, CSS, MySQL
-Použité knihovny: Bootstrap, JQuerry, Zoom
+Použité knihovny: Bootstrap, JQuerry, Zoom, BxSlider
 
